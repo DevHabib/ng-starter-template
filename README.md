@@ -6,9 +6,10 @@
 
 ### To get the structure
 >`git clone https://github.com/DevHabib/ng-starter-template`
-### get inside the folder
+### Get inside the folder
 >`cd ng-starter-template`
-
+### Switch the branch
+>`git branch get-template` then `git checkout get-template`
 ### install node on the project
 > `npm i` or `npm install`
 
